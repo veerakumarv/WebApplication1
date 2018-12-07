@@ -1,0 +1,8 @@
+F:\BuildProject\WebApplication1\bin\WebApplication1.dll
+F:\BuildProject\WebApplication1\bin\WebApplication1.pdb
+F:\BuildProject\WebApplication1\bin\WebApplication1.xml
+F:\BuildProject\WebApplication1\obj\Release\WebApplication1.Resources.resources
+F:\BuildProject\WebApplication1\obj\Release\WebApplication1.vbproj.GenerateResource.Cache
+F:\BuildProject\WebApplication1\obj\Release\WebApplication1.dll
+F:\BuildProject\WebApplication1\obj\Release\WebApplication1.xml
+F:\BuildProject\WebApplication1\obj\Release\WebApplication1.pdb
